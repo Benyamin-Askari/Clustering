@@ -1,6 +1,7 @@
-# Time Series Clustering Analysis
+# Wearable Data Preprocessing
 
 This project was originally for the Data Science module to test wether clustering analysis is feasible for time series data from wearable sensors, using techniques like K-means and DBSCAN after dimensionality reduction with PCA.
+However, since clustering is not suited for Physical Activity Recognition only the EDA and data preprocessing in presented.
 
 ## Features
 
