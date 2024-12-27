@@ -9,7 +9,7 @@ This project implements clustering analysis on time series data from wearable se
   - RMS time series
   - Signal Vector Magnitude (SVM) for accelerometer and gyroscope data
   - Delta SVM calculations
-  - Mean voltage sampling
+  - Mean sample voltage
 - Dimensionality reduction using PCA (90% variance retention)
 
 
