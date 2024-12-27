@@ -1,6 +1,6 @@
 # Time Series Clustering Analysis
 
-This project implements clustering analysis on time series data from wearable sensors, using techniques like K-means and DBSCAN after dimensionality reduction with PCA.
+This project was originally for the Data Science module to test wether clustering analysis is feasible for time series data from wearable sensors, using techniques like K-means and DBSCAN after dimensionality reduction with PCA.
 
 ## Features
 
